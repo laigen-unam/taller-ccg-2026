@@ -14,8 +14,6 @@ El modelo debe clasificar secuencias de 57 nucleótidos de longitud en dos categ
 * no promotor: 0
 * promotor: 1
 
-## Conjunto de datos
-Usaremos el conjunto de datos llamado [Promoter gene sequences](https://archive.ics.uci.edu/dataset/67/molecular+biology+promoter+gene+sequences) con 106 secuencias de 57 nucleótidos de longitud formadas con los símbolos {a, g, t, c}.
-
 ## Datos
-## [Archivo con secuencias de promotores](../datos/promoters.csv)
+Usaremos el conjunto de datos llamado Promoter gene sequences con 106 secuencias de 57 nucleótidos de longitud formadas con los símbolos {a, g, t, c}.
+Puedes descargarlo aquí: [Archivo con secuencias de promotores](https://github.com/laigen-unam/taller-ccg-2026/tree/main/datos)
