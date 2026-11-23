@@ -30,4 +30,4 @@ Para el Taller usaremos un cuaderno de trabajo que contiene las instrucciones li
 ## Conferencia
 **El camino de la IA en la genómica: de Turing a AlphaGenome**
 
-Si no tuvo oportunidad de asistir a la conferencia previa al taller, en este enlace puede descargar [la presentación]().
+Si no tuvo oportunidad de asistir a la conferencia previa al taller, en este enlace puede descargar [la presentación](https://github.com/laigen-unam/taller-ccg-2026/tree/main/conferencia).
