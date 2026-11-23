@@ -26,7 +26,6 @@ Para el Taller usaremos un cuaderno de trabajo que contiene las instrucciones li
 ## Referencias
 * Zhou, Zhihan, et al. "DNABERT-2: Efficient foundation model and benchmark for multi-species genomes." International Conference on Learning Representations. Vol. 2024. 2024.
 
----
 ## Conferencia
 **El camino de la IA en la genómica: de Turing a AlphaGenome**
 
