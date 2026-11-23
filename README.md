@@ -4,7 +4,7 @@
 **¡Bienvenidos a nuestro Taller!**
 
 En este taller afinarás (_fine-tuning_) un Modelo de Lenguaje Genómico de DNA basado en un _ttransformer_
-pre-entrenado llamado DNABERT-2 ([Zhou et al., 2024](../referencias/2024_Zhou_DNABERT-2EfficientFoundationModelBenchmarkForMulti-SpeciesGenome.pdf)) para predecir si una secuencia de 
+pre-entrenado llamado DNABERT-2 ([Zhou et al., 2024](https://github.com/laigen-unam/taller-ccg-2026/tree/main/referencias)) para predecir si una secuencia de 
 nucleótidos es o no es un promotor de _E. coli_.
 
 * Zhou, Zhihan, et al. "DNABERT-2: Efficient foundation model and benchmark for multi-species genomes." International Conference on Learning Representations. Vol. 2024. 2024.
