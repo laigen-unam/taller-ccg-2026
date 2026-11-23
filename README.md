@@ -3,11 +3,10 @@
 ## Objetivo
 **¡Bienvenidos a nuestro Taller!**
 
-En este taller afinarás (_fine-tuning_) un Modelo de Lenguaje Genómico de DNA basado en un _ttransformer_
-pre-entrenado llamado DNABERT-2 ([Zhou et al., 2024](https://github.com/laigen-unam/taller-ccg-2026/tree/main/referencias)) para predecir si una secuencia de 
+En este taller usted afinará (_fine-tuning_) un **Modelo de Lenguaje Genómico de DNA** basado en un _transformer_
+pre-entrenado. Este Modelo de Lenguaje se llama **DNABERT-2** ([Zhou et al., 2024](https://github.com/laigen-unam/taller-ccg-2026/tree/main/referencias)) y 
+será afinado para predecir si una secuencia de 
 nucleótidos es o no es un promotor de _E. coli_.
-
-* Zhou, Zhihan, et al. "DNABERT-2: Efficient foundation model and benchmark for multi-species genomes." International Conference on Learning Representations. Vol. 2024. 2024.
 
 ## Descripción de la tarea
 El modelo debe clasificar secuencias de 57 nucleótidos de longitud en dos categorías:
@@ -16,4 +15,13 @@ El modelo debe clasificar secuencias de 57 nucleótidos de longitud en dos categ
 
 ## Datos
 Usaremos el conjunto de datos llamado Promoter gene sequences con 106 secuencias de 57 nucleótidos de longitud formadas con los símbolos {a, g, t, c}.
-Puedes descargarlo aquí: [Archivo con secuencias de promotores](https://github.com/laigen-unam/taller-ccg-2026/tree/main/datos)
+
+* En este enlace, usted puede descargar el [archivo con secuencias de promotores](https://github.com/laigen-unam/taller-ccg-2026/tree/main/datos).
+
+## Cuaderno de trabajo (notebook)
+Para el Taller usaremos un cuaderno de trabajo que contiene las instrucciones litas para su desarrollo.
+
+* En este enlace, usted puede descargar el [cuaderno de trabajo](https://github.com/laigen-unam/taller-ccg-2026/tree/main/notebook).
+
+## Referencias
+* Zhou, Zhihan, et al. "DNABERT-2: Efficient foundation model and benchmark for multi-species genomes." International Conference on Learning Representations. Vol. 2024. 2024.
