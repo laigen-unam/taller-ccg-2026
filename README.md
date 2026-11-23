@@ -1,7 +1,7 @@
 # Taller: Clasificación de secuencias de nucleótidos usando modelos de lenguaje genómicos basados en _transformers_
 
 ## Objetivo
-¡Bienvenidos a nuestro Taller!
+**¡Bienvenidos a nuestro Taller!**
 
 En este taller afinarás (_fine-tuning_) un Modelo de Lenguaje Genómico de DNA basado en un _ttransformer_
 pre-entrenado llamado DNABERT-2 ([Zhou et al., 2024](../referencias/2024_Zhou_DNABERT-2EfficientFoundationModelBenchmarkForMulti-SpeciesGenome.pdf)) para predecir si una secuencia de 
