@@ -1,8 +1,13 @@
 # Taller: Clasificación de secuencias de nucleótidos usando modelos de lenguaje genómicos basados en _transformers_
 
-## Objetivo
+## Presentacion
 **¡Bienvenidos a nuestro Taller!**
 
+Esperamos que este taller le sea útil y le despierte el interés por analizar datos con aproximaciones de IA.
+
+* En este enlace, usted puede descargar la [presentación del taller](https://github.com/laigen-unam/taller-ccg-2026/tree/main/presentacion). 
+
+## Objetivo
 En este taller usted afinará (_fine-tuning_) un **Modelo de Lenguaje Genómico de DNA** basado en un _transformer_
 pre-entrenado. Este Modelo de Lenguaje se llama **DNABERT-2** ([Zhou et al., 2024](https://github.com/laigen-unam/taller-ccg-2026/tree/main/referencias)) y 
 será afinado para predecir si una secuencia de 
